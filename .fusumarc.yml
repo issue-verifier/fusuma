@@ -1,0 +1,14 @@
+meta:
+  url:
+  name: fusuma-verification
+  author:
+  thumbnail:
+  description:
+  sns:
+    - twitter
+slide:
+  sidebar: true
+  theme: nebula
+extends:
+  js:
+  css: style.css

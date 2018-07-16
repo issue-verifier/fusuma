@@ -1,0 +1,26 @@
+{
+  "name": "fusuma-verification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create": "fusuma init",
+    "start": "fusuma start",
+    "build": "fusuma build",
+    "pdf": "fusuma pdf",
+    "deploy": "fusuma build && fusuma deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issue-verifier/fusuma.git"
+  },
+  "author": "hiroppy <git@hiroppy.me> (https://hiroppy.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/issue-verifier/fusuma/issues"
+  },
+  "homepage": "https://github.com/issue-verifier/fusuma#readme",
+  "devDependencies": {
+    "fusuma": "^0.5.3"
+  }
+}
