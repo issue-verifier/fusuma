@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/issue-verifier/fusuma#readme",
   "devDependencies": {
-    "fusuma": "^0.5.3"
+    "fusuma": "^0.7.1"
   }
 }
