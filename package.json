@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/issue-verifier/fusuma#readme",
   "devDependencies": {
-    "fusuma": "^0.8.0"
+    "fusuma": "^0.9.2"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.3.1",
+    "react": "^16.5.0"
   }
 }

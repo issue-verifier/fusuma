@@ -10,5 +10,5 @@ slide:
   sidebar: true
   theme: nebula
 extends:
-  js:
+  js: main.js
   css: style.css
