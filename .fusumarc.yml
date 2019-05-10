@@ -7,8 +7,15 @@ meta:
   sns:
     - twitter
 slide:
+  loop: true
   sidebar: true
-  theme: nebula
+  targetBlank: true
+  showIndex: false
+  isVertical: false
+  code:
+    languages:
+      - javascript
+      - cpp
 extends:
   js: main.js
   css: style.css
