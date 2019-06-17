@@ -22,7 +22,6 @@
   "homepage": "https://github.com/issue-verifier/fusuma#readme",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.3.1",
-    "fusuma": "^1.1.0",
-    "react": "^16.5.0"
+    "fusuma": "^1.2.2"
   }
 }
