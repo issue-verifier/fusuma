@@ -1,5 +1,5 @@
 meta:
-  url:
+  url: https://issue-verifier.github.io/fusuma
   name: fusuma-verification
   author:
   thumbnail:
@@ -7,7 +7,7 @@ meta:
   sns:
     - twitter
 slide:
-  loop: true
+  loop: false
   sidebar: true
   targetBlank: true
   showIndex: true
@@ -19,3 +19,5 @@ slide:
 extends:
   js: main.js
   css: style.css
+build:
+  useCache: false
