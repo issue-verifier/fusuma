@@ -1,17 +1,11 @@
 meta:
   url: https://issue-verifier.github.io/fusuma
   name: fusuma-verification
-  author:
-  description:
+  description: to check issues
   sns:
     - twitter
 slide:
   loop: false
   targetBlank: true
-  code:
-    languages:
-      - javascript
-      - cpp
 extends:
   js: main.js
-  css: style.css
